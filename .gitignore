@@ -8,9 +8,4 @@ __pycache__/
 venv/
 env/
 
-# Data
-*.csv
 
-# Results
-results/
-*.csv
